@@ -36,7 +36,7 @@ Building modern systems with Python, SQL and Cloud technologies.
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Building modern systems with Python, SQL and Cloud technologies.
 <tr>
 <td align="center" width="33%">
 
-### ⚙️ Data Engineering
+### Data Engineering
 
 <br>
 
@@ -58,7 +58,7 @@ Python • SQL • Pipelines
 
 <td align="center" width="33%">
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <br>
 
@@ -72,7 +72,7 @@ AWS • Docker • Infrastructure
 
 <td align="center" width="33%">
 
-### 📊 Analytics & Tools
+### Analytics & Tools
 
 <br>
 
@@ -96,7 +96,7 @@ Airflow • Spark • Snowflake
 
 ---
 
-# 📊 Top Languages
+# Top Languages
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Airflow • Spark • Snowflake
 
 ---
 
-# 🟡 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Airflow • Spark • Snowflake
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 📡 ETL Pipelines
 Scalable workflows with Airflow, Docker and AWS.
