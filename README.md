@@ -90,16 +90,6 @@ Airflow • Spark • Snowflake
 
 ---
 
-# Top Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
