@@ -133,11 +133,7 @@ Modern cloud-native architectures and integrations.
 </div>
 
 <div align="center">
-
-Turning data into scalable systems.
-
-</div>
-
+  
 ### Turning data into scalable systems.
 
 </div>
