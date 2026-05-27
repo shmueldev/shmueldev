@@ -36,44 +36,77 @@ Building modern systems with Python, SQL and Cloud technologies.
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,docker,aws,postgres,mysql,git,github,linux,vscode&theme=dark" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=38BDF8"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
-
-</div>
+### ⚙️ Data Engineering
 
 <br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=shmueldev&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<br><br>
+
+Python • SQL • Pipelines
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud & DevOps
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" />
+
+<br><br>
+
+AWS • Docker • Infrastructure
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Analytics & Tools
+
+<br>
+
+<img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=38BDF8"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=38BDF8"/>
+
+<br><br>
+
+Airflow • Spark • Snowflake
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🟡 Contribution Activity
+# 📊 Top Languages
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🟡 Contribution Activity
 
 <div align="center">
 
@@ -83,16 +116,23 @@ Building modern systems with Python, SQL and Cloud technologies.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 📡 **ETL Pipelines** — scalable workflows with Airflow, Docker and AWS.
-- 💸 **PocketPal** — automation platform for finance tracking and intelligent email parsing.
-- 📊 **Analytics Dashboards** — interactive business intelligence and reporting solutions.
-- ☁️ **Cloud Data Solutions** — modern cloud-native architectures and integrations.
+### 📡 ETL Pipelines
+Scalable workflows with Airflow, Docker and AWS.
+
+### 💸 PocketPal
+Automation platform for finance tracking and intelligent email parsing.
+
+### 📊 Analytics Dashboards
+Interactive business intelligence and reporting solutions.
+
+### ☁️ Cloud Data Solutions
+Modern cloud-native architectures and integrations.
 
 ---
 
-## 🌌 Current Focus
+# 🌌 Current Focus
 
 ```yaml
 learning:
