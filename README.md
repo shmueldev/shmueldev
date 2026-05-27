@@ -76,13 +76,9 @@ AWS • Docker • Infrastructure
 
 <br>
 
-<img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=38BDF8"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="0"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=38BDF8"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,snowflake,dbt&theme=dark"/>
 
 <br><br>
 
