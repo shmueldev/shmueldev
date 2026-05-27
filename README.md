@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://i.imgur.com/4K6kJ2R.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0B1120,70:0EA5E9,100:38BDF8&text=SHMUELDEV&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ENGINEER%20%E2%80%A2%20AI%20AUTOMATION%20%E2%80%A2%20CLOUD&descAlignY=58"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Building+scalable+data+pipelines...;Cloud+Data+Engineering+%7C+AI+Automation;Python+%7C+SQL+%7C+Airflow+%7C+AWS;Turning+data+into+insights..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+data+pipelines...;Cloud+Data+Engineering+%7C+AI+Automation;Python+%7C+SQL+%7C+Airflow+%7C+AWS;Turning+data+into+insights..." />
 
 </div>
 
@@ -12,9 +12,7 @@
 
 <div align="center">
 
-# SHMUELDEV
-
-### Data Engineer • AI Automation • Cloud Solutions
+### Data Engineer focused on scalable pipelines, cloud architecture and automation.
 
 </div>
 
@@ -24,21 +22,21 @@
 > whoami
 
 Samuel David Ruiz Angulo
-Data Engineer from Medellín, Colombia
+Data Engineer • Medellín, Colombia
 
-Focused on:
-- Data Pipelines
-- ETL / ELT Systems
+Specialized in:
+- ETL / ELT Pipelines
 - Workflow Automation
 - Cloud Infrastructure
 - Analytics Engineering
+- Data Platforms
 
-Building modern data solutions with Python, SQL and Cloud technologies.
+Building modern systems with Python, SQL and Cloud technologies.
 ```
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -46,22 +44,22 @@ Building modern data solutions with Python, SQL and Cloud technologies.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=38BDF8"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
 
 </div>
 
@@ -69,95 +67,59 @@ Building modern data solutions with Python, SQL and Cloud technologies.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shmueldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com?user=shmueldev&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
 
-# 🟡 Contribution Activity
+## 🟡 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shmueldev/shmueldev/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/shmueldev/shmueldev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-## 📡 ETL Pipelines
-
-Scalable ETL/ELT workflows using Airflow, Docker and cloud technologies.
-
-</td>
-
-<td width="50%">
-
-## 💸 PocketPal
-
-Automation platform for tracking finances and parsing emails intelligently.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📊 Analytics Dashboards
-
-Interactive dashboards and business intelligence solutions.
-
-</td>
-
-<td width="50%">
-
-## ☁️ Cloud Data Solutions
-
-Modern cloud-native data engineering architectures.
-
-</td>
-</tr>
-</table>
+- 📡 **ETL Pipelines** — scalable workflows with Airflow, Docker and AWS.
+- 💸 **PocketPal** — automation platform for finance tracking and intelligent email parsing.
+- 📊 **Analytics Dashboards** — interactive business intelligence and reporting solutions.
+- ☁️ **Cloud Data Solutions** — modern cloud-native architectures and integrations.
 
 ---
 
-# 🌌 Current Focus
+## 🌌 Current Focus
 
 ```yaml
-currently_learning:
+learning:
   - Advanced Data Engineering
   - Distributed Systems
   - AI Automation
-  - Cloud Architecture
 
-currently_building:
+building:
   - Automated Pipelines
   - Analytics Platforms
-  - AI Integrations
+  - Cloud Data Solutions
 ```
 
 ---
 
 <div align="center">
 
-# 🌐 Connect
-
 <a href="https://github.com/shmueldev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -166,6 +128,6 @@ currently_building:
 
 <div align="center">
 
-### "Turning data into scalable systems"
+### Turning data into scalable systems.
 
 </div>
