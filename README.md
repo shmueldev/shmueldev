@@ -102,17 +102,53 @@ Airflow • Spark • Snowflake
 
 # Featured Projects
 
-### 📡 ETL Pipelines
-Scalable workflows with Airflow, Docker and AWS.
+<table>
+<tr>
+<td width="50%">
 
-### 💸 PocketPal
-Automation platform for finance tracking and intelligent email parsing.
+## 🚀 ETL Pipelines
 
-### 📊 Analytics Dashboards
-Interactive business intelligence and reporting solutions.
+Modern ETL workflows using:
 
-### ☁️ Cloud Data Solutions
-Modern cloud-native architectures and integrations.
+- Apache Airflow
+- Docker
+- AWS
+- PostgreSQL
+
+</td>
+
+<td width="50%">
+
+## 📊 Analytics Platform
+
+Interactive dashboards and analytics systems with:
+
+- Python
+- SQL
+- Streamlit
+- Plotly
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 AI Automation
+
+Automation tools and intelligent workflows.
+
+</td>
+
+<td width="50%">
+
+## ☁️ Cloud Infrastructure
+
+Cloud-native data platforms and scalable systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
