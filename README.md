@@ -119,20 +119,18 @@ Modern cloud-native architectures and integrations.
 <div align="center">
 
 <a href="https://github.com/shmueldev">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
 <a href="https://linkedin.com/in/shmueldev/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
-<a href="mailto:ruizdavid0506@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://linkedin.com/in/shmueldev/">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 </div>
-
-<br>
 
 <div align="center">
 
