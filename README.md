@@ -116,34 +116,18 @@ Modern cloud-native architectures and integrations.
 
 ---
 
-# 🌌 Current Focus
-
-```yaml
-learning:
-  - Advanced Data Engineering
-  - Distributed Systems
-  - AI Automation
-
-building:
-  - Automated Pipelines
-  - Analytics Platforms
-  - Cloud Data Solutions
-```
-
----
-
 <div align="center">
 
 <a href="https://github.com/shmueldev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<a href="https://linkedin.com/in/shmueldev/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<a href="mailto:ruizdavid0506@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
@@ -151,6 +135,10 @@ building:
 <br>
 
 <div align="center">
+
+Turning data into scalable systems.
+
+</div>
 
 ### Turning data into scalable systems.
 
