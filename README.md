@@ -99,18 +99,13 @@ Airflow • Spark • Snowflake
 </div>
 
 ---
-<h2>⚡ System Initialization</h2>
 
-```bash
-> booting shmueldev profile...
+<div align="center">
 
-[✓] Python environment loaded
-[✓] ETL pipelines initialized
-[✓] Cloud infrastructure connected
-[✓] AI automation systems online
-[✓] Analytics engine running
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+initializing+cloud+environment...;%24+loading+data+pipelines...;%24+starting+analytics+engine...;%24+system+status%3A+ONLINE" />
 
-SYSTEM STATUS: OPERATIONAL
+</div>
+
 ---
 
 # Featured Projects
@@ -121,12 +116,7 @@ SYSTEM STATUS: OPERATIONAL
 
 ## 🚀 ETL Pipelines
 
-Modern ETL workflows using:
-
-- Apache Airflow
-- Docker
-- AWS
-- PostgreSQL
+Airflow • Docker • AWS • PostgreSQL
 
 </td>
 
@@ -134,12 +124,7 @@ Modern ETL workflows using:
 
 ## 📊 Analytics Platform
 
-Interactive dashboards and analytics systems with:
-
-- Python
-- SQL
-- Streamlit
-- Plotly
+Python • SQL • Streamlit • Plotly
 
 </td>
 </tr>
@@ -149,7 +134,7 @@ Interactive dashboards and analytics systems with:
 
 ## 🤖 AI Automation
 
-Automation tools and intelligent workflows.
+AI Workflows • Automation • APIs
 
 </td>
 
@@ -157,7 +142,7 @@ Automation tools and intelligent workflows.
 
 ## ☁️ Cloud Infrastructure
 
-Cloud-native data platforms and scalable systems.
+Cloud-Native • Scalable Systems • DevOps
 
 </td>
 </tr>
@@ -175,14 +160,14 @@ Cloud-native data platforms and scalable systems.
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
-<a href="https://linkedin.com/in/shmueldev/">
+<a href="mailto:tuemail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 </div>
 
 <div align="center">
-  
+
 ### Turning data into scalable systems.
 
 </div>
