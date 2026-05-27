@@ -76,9 +76,7 @@ AWS • Docker • Infrastructure
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="0"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,snowflake,dbt&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,snowflake&theme=dark"/>
 
 <br><br>
 
