@@ -18,7 +18,7 @@
 
 <br>
 
-bash
+```bash
 > whoami
 
 Samuel David Ruiz Angulo
@@ -32,7 +32,7 @@ Specialized in:
 - Data Platforms
 
 Building modern systems with Python, SQL and Cloud technologies.
-
+```
 
 ---
 
