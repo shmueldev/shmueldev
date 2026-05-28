@@ -1,173 +1,41 @@
+# SHMUELDEV — GitHub Profile README
+
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0B1120,70:0EA5E9,100:38BDF8&text=SHMUELDEV&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ENGINEER%20%E2%80%A2%20AI%20AUTOMATION%20%E2%80%A2%20CLOUD&descAlignY=58"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+data+pipelines...;Cloud+Data+Engineering+%7C+AI+Automation;Python+%7C+SQL+%7C+Airflow+%7C+AWS;Turning+data+into+insights..." />
+<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)" />
+  <text x="50%" y="40%" text-anchor="middle" fill="#00F6FF" font-size="48" font-family="Arial, sans-serif">SHMUELDEV</text>
+  <text x="50%" y="60%" text-anchor="middle" fill="#38BDF8" font-size="20" font-family="Arial, sans-serif">Data Scientist • AI Automation • Cloud</text>
+</svg>
 
 </div>
 
----
+### About Me
 
-<div align="center">
+I'm a Data Scientist focused on AI automation, data pipelines, and cloud-based analytics. I specialize in Python, SQL, Machine Learning, and building modern data platforms.
 
-### Data Engineer focused on scalable pipelines, cloud architecture and automation.
+### Tech Stack
 
-</div>
+**Data Engineering:** Python, SQL, Pandas, Spark  
+**AI & ML:** Scikit-Learn, TensorFlow, PyTorch, HuggingFace  
+**Cloud & DevOps:** AWS, Docker, Git, CI/CD  
+**Visualization & Tools:** Tableau, Plotly, Power BI
 
-<br>
+### Connect With Me
 
-```bash
-> whoami
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shmueldev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-Samuel David Ruiz Angulo
-Data Engineer • Medellín, Colombia
+### GitHub Stats
 
-Specialized in:
-- ETL / ELT Pipelines
-- Workflow Automation
-- Cloud Infrastructure
-- Analytics Engineering
-- Data Platforms
-
-Building modern systems with Python, SQL and Cloud technologies.
+![ShmuelDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=dark&count_private=true&hide=prs)
 ```
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Data Engineering
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
-
-<br><br>
-
-Python • SQL • Pipelines
-
-</td>
-
-<td align="center" width="33%">
-
-### Cloud & DevOps
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" />
-
-<br><br>
-
-AWS • Docker • Infrastructure
-
-</td>
-
-<td align="center" width="33%">
-
-### Analytics & Tools
-
-<br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,snowflake&theme=dark"/>
-
-<br><br>
-
-Airflow • Spark • Snowflake
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/shmueldev/shmueldev/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+initializing+cloud+environment...;%24+loading+data+pipelines...;%24+starting+analytics+engine...;%24+system+status%3A+ONLINE" />
-
-</div>
-
----
-
-# Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🚀 ETL Pipelines
-
-Airflow • Docker • AWS • PostgreSQL
-
-</td>
-
-<td width="50%">
-
-## 📊 Analytics Platform
-
-Python • SQL • Streamlit • Plotly
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🤖 AI Automation
-
-AI Workflows • Automation • APIs
-
-</td>
-
-<td width="50%">
-
-## ☁️ Cloud Infrastructure
-
-Cloud-Native • Scalable Systems • DevOps
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<a href="https://github.com/shmueldev">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</a>
-
-<a href="https://linkedin.com/in/shmueldev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-</a>
-
-<a href="mailto:tuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-</a>
-
-</div>
-
-<div align="center">
-
-### Turning data into scalable systems.
-
-</div>
