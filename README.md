@@ -1,41 +1,96 @@
-# SHMUELDEV — GitHub Profile README
-
-```markdown
 <div align="center">
 
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="50%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#1E293B"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="320" fill="url(#bg)" />
-  <text x="50%" y="40%" text-anchor="middle" fill="#00F6FF" font-size="48" font-family="Arial, sans-serif">SHMUELDEV</text>
-  <text x="50%" y="60%" text-anchor="middle" fill="#38BDF8" font-size="20" font-family="Arial, sans-serif">Data Scientist • AI Automation • Cloud</text>
-</svg>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:111827,100:00D4FF&height=260&section=header&text=SHMUELDEV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20•%20AI%20ENGINEER%20•%20CLOUD&descAlignY=58&descSize=18"/>
+
+# ⚡ Samuel Ruiz
+
+### Data Scientist • Machine Learning • AI Automation
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems...;Turning+data+into+decisions...;AI+Engineering+%7C+Data+Platforms+%7C+Cloud" />
 
 </div>
 
-### About Me
+---
 
-I'm a Data Scientist focused on AI automation, data pipelines, and cloud-based analytics. I specialize in Python, SQL, Machine Learning, and building modern data platforms.
+# 🧠 About Me
 
-### Tech Stack
+```python
+class SamuelRuiz:
+    def __init__(self):
+        self.role = "Data Scientist"
+        self.language = ["Python", "SQL", "JavaScript"]
+        self.specialization = [
+            "Machine Learning",
+            "AI Automation",
+            "Data Engineering",
+            "Cloud Architecture",
+            "Analytics"
+        ]
 
-**Data Engineering:** Python, SQL, Pandas, Spark  
-**AI & ML:** Scikit-Learn, TensorFlow, PyTorch, HuggingFace  
-**Cloud & DevOps:** AWS, Docker, Git, CI/CD  
-**Visualization & Tools:** Tableau, Plotly, Power BI
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shmueldev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-### GitHub Stats
-
-![ShmuelDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=dark&count_private=true&hide=prs)
+    def mission(self):
+        return "Build scalable AI systems powered by data"
 ```
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,git,linux,postgres,mongodb" />
+
+</div>
+
+---
+
+# 📊 Data Science Toolkit
+
+<div align="center">
+
+| AI / ML | Data Engineering | Cloud | Visualization |
+|---|---|---|---|
+| Scikit-Learn | Spark | AWS | Power BI |
+| TensorFlow | Airflow | Docker | Plotly |
+| PyTorch | ETL Pipelines | CI/CD | Tableau |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shmueldev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/shmueldev">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0B1020&height=120&section=footer"/>
+
+</div>
