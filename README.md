@@ -112,37 +112,37 @@ Airflow • Spark • Snowflake
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-## 🚀 ETL Pipelines
+<h2>🚀 ETL Pipelines</h2>
 
-Airflow • Docker • AWS • PostgreSQL
+<p>Airflow • Docker • AWS • PostgreSQL</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-## 📊 Analytics Platform
+<h2>📊 Analytics Platform</h2>
 
-Python • SQL • Streamlit • Plotly
+<p>Python • SQL • Streamlit • Plotly</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-## 🤖 AI Automation
+<h2>🤖 AI Automation</h2>
 
-AI Workflows • Automation • APIs
+<p>AI Workflows • Automation • APIs</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-## ☁️ Cloud Infrastructure
+<h2>☁️ Cloud Infrastructure</h2>
 
-Cloud-Native • Scalable Systems • DevOps
+<p>Cloud-Native • Scalable Systems • DevOps</p>
 
 </td>
 </tr>
