@@ -1,93 +1,177 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:111827,100:00D4FF&height=260&section=header&text=SHMUELDEV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENTIST%20•%20AI%20ENGINEER%20•%20CLOUD&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0B1120,70:0EA5E9,100:38BDF8&text=SHMUELDEV&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ENGINEER%20%E2%80%A2%20AI%20AUTOMATION%20%E2%80%A2%20CLOUD&descAlignY=58"/>
 
-# ⚡ Samuel Ruiz
+<br>
 
-### Data Scientist • Machine Learning • AI Automation
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems...;Turning+data+into+decisions...;AI+Engineering+%7C+Data+Platforms+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+data+pipelines...;Cloud+Data+Engineering+%7C+AI+Automation;Python+%7C+SQL+%7C+Airflow+%7C+AWS;Turning+data+into+insights..." />
 
 </div>
 
 ---
 
-# 🧠 About Me
+<div align="center">
 
-```python
-class SamuelRuiz:
-    def __init__(self):
-        self.role = "Data Scientist"
-        self.language = ["Python", "SQL", "JavaScript"]
-        self.specialization = [
-            "Machine Learning",
-            "AI Automation",
-            "Data Engineering",
-            "Cloud Architecture",
-            "Analytics"
-        ]
+### Data Engineer focused on scalable pipelines, cloud architecture and automation.
 
-    def mission(self):
-        return "Build scalable AI systems powered by data"
-```
+</div>
+
+<br>
+
+bash
+> whoami
+
+Samuel David Ruiz Angulo
+Data Engineer • Medellín, Colombia
+
+Specialized in:
+- ETL / ELT Pipelines
+- Workflow Automation
+- Cloud Infrastructure
+- Analytics Engineering
+- Data Platforms
+
+Building modern systems with Python, SQL and Cloud technologies.
+
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,git,linux,postgres,mongodb" />
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Data Engineering
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
+
+<br><br>
+
+Python • SQL • Pipelines
+
+</td>
+
+<td align="center" width="33%">
+
+### Cloud & DevOps
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" />
+
+<br><br>
+
+AWS • Docker • Infrastructure
+
+</td>
+
+<td align="center" width="33%">
+
+### Analytics & Tools
+
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,snowflake&theme=dark"/>
+
+<br><br>
+
+Airflow • Spark • Snowflake
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 Data Science Toolkit
+# Contribution Activity
 
 <div align="center">
 
-| AI / ML | Data Engineering | Cloud | Visualization |
-|---|---|---|---|
-| Scikit-Learn | Spark | AWS | Power BI |
-| TensorFlow | Airflow | Docker | Plotly |
-| PyTorch | ETL Pipelines | CI/CD | Tableau |
+<img width="100%" src="https://raw.githubusercontent.com/shmueldev/shmueldev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shmueldev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+initializing+cloud+environment...;%24+loading+data+pipelines...;%24+starting+analytics+engine...;%24+system+status%3A+ONLINE" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 ETL Pipelines
+
+Airflow • Docker • AWS • PostgreSQL
+
+</td>
+
+<td width="50%">
+
+## 📊 Analytics Platform
+
+Python • SQL • Streamlit • Plotly
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 AI Automation
+
+AI Workflows • Automation • APIs
+
+</td>
+
+<td width="50%">
+
+## ☁️ Cloud Infrastructure
+
+Cloud-Native • Scalable Systems • DevOps
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shmueldev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/shmueldev">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+<a href="https://linkedin.com/in/shmueldev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
 <a href="mailto:tuemail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/shmueldev">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 </div>
 
----
+<div align="center">
+
+### Turning data into scalable systems.
+
+</div>
+
 
 <div align="center">
 
